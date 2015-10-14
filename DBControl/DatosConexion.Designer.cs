@@ -157,7 +157,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "DatosConexion";
             this.ShowInTaskbar = false;
-            this.Text = "DatosConexion";
+            this.Text = "Datos de conexion Conexion";
             this.Load += new System.EventHandler(this.DatosConexion_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
